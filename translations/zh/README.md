@@ -1,23 +1,21 @@
-🌐 [English](../../README.md) | [Русский](../ru/README.md)
+[English](../../README.md) · [Русский](../ru/README.md) · [中文](README.md)
 
-# 罗曼·乌姆亚罗夫
+# Roman Umyarov
 
-构建解决实际问题的 AI 工具，并将其推向生产环境。
+我为真实团队构建实用的 AI 与自动化产品：从最初的工作流设计，到具备文档、监控和清晰运维责任的生产服务。
 
-## 项目
+## 代表项目
 
-**TvoyMeet** — 跨平台桌面应用（Win/Mac），用于会议转录。技术栈：faster-whisper + FFmpeg + customtkinter。输出结构化 .md 文件，可直接提交给 LLM。已打包为原生安装程序。
+- **[Tvoy Hod Tracker](https://github.com/umyarr/tvoyhod-tracker)** — 用于任务、项目、路线图和团队协作的安全 Telegram Mini App。
+- **[TvoyMeet](https://github.com/umyarr/tvoymeet)** — 本地优先的桌面转录工具，支持音频、视频和在线媒体。
+- **[NPS Feedback Analyst](https://github.com/umyarr/nps-feedback-analyst)** — 支持离线 NLP、可选 AI、注入防护和指标校验的 NPS 分析工具。
+- **[Winx Bot](https://github.com/umyarr/winx_bot)** — 使用 GigaChat 将团队聊天消息转换为结构化任务。
+- **[TG News Bot](https://github.com/umyarr/tg-news-bot)** — 从 RSS 聚合到 Telegram 发布的自动化编辑流程。
 
-**NPS Feedback Analyst** — 三模式反馈分析流水线：本地 NLP（离线）、Gemini 2.5 Flash、Ollama。包含提示注入防护、MD5 缓存及 LLM 后数值验证。Telegram 机器人作为交互界面。
+## 技术方向
 
-**Winx Bot** — aiogram 3 + GigaChat。读取团队聊天消息，提取任务，映射到负责人，将结构化 JSON 返回至指定话题。作为 systemd 服务运行于 VPS。
+`Python` · `FastAPI` · `Telegram Mini Apps` · `LLM 集成` · `本地 AI` · `工作流自动化` · `systemd` · `产品文档`
 
-**FIFA26 Predictor** — 比赛结果预测的机器学习模型。
+## 背景
 
-## 技术栈
-
-`Python` `GigaChat` `GigaCode` `aiogram` `faster-whisper` `pandas` `REST API` `systemd` `PyInstaller`
-
-## 关于我
-
-从事青年政策工作——通过团队培训实现运营自动化与知识规模化。擅长将技术方案转化为非技术人员可理解并落地的实践。
+我的业务领域是青年政策与团队运营。我将反复出现的协作问题转化为非技术同事也能采用和维护的工具。
