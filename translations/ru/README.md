@@ -6,11 +6,12 @@
 
 ## Избранные проекты
 
-- **[Трекер «Твой Ход»](https://github.com/umyarr/tvoyhod-tracker)** — защищённое Telegram Mini App для задач, проектов, дорожных карт и командной координации.
 - **[TvoyMeet](https://github.com/umyarr/tvoymeet)** — локальное настольное приложение для расшифровки аудио, видео и онлайн-медиа.
 - **[NPS Feedback Analyst](https://github.com/umyarr/nps-feedback-analyst)** — проверяемая NPS-аналитика с офлайн-NLP, опциональным AI и защитой от prompt injection.
 - **[Winx Bot](https://github.com/umyarr/winx_bot)** — превращает сообщения рабочего чата в структурированные задачи с помощью GigaChat.
 - **[TG News Bot](https://github.com/umyarr/tg-news-bot)** — автоматизированный редакционный конвейер от RSS до публикации в Telegram.
+
+- **[Hourly Diary](https://github.com/umyarr/hourly-diary)** — Telegram-дневник с ручной синхронизацией с Obsidian.
 
 ## Фокус
 
