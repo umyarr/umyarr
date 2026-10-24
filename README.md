@@ -6,11 +6,12 @@ I build practical AI and automation products for real teams — from the first w
 
 ## Selected work
 
-- **[Tvoy Hod Tracker](https://github.com/umyarr/tvoyhod-tracker)** — secure Telegram Mini App for tasks, projects, roadmaps, and team coordination.
 - **[TvoyMeet](https://github.com/umyarr/tvoymeet)** — local-first desktop transcription for audio, video, and online media.
 - **[NPS Feedback Analyst](https://github.com/umyarr/nps-feedback-analyst)** — verifiable NPS analytics with offline NLP, optional AI, and injection defense.
 - **[Winx Bot](https://github.com/umyarr/winx_bot)** — turns team-chat messages into structured tasks with GigaChat.
 - **[TG News Bot](https://github.com/umyarr/tg-news-bot)** — automated RSS-to-Telegram editorial pipeline.
+
+- **[Hourly Diary](https://github.com/umyarr/hourly-diary)** — Telegram hourly diary with manual Obsidian synchronization.
 
 ## Focus
 
